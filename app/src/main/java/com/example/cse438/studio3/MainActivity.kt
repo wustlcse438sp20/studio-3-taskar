@@ -6,6 +6,7 @@ import androidx.lifecycle.ViewModelProviders
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.cse438_rest_studio.Adapter.BreweryListAdapter
+import com.example.cse438_rest_studio.data.Brewery
 
 class MainActivity : AppCompatActivity() {
 
